@@ -1,0 +1,1533 @@
+{
+  "Any": [
+    {
+      "name": "Friend in Need",
+      "description": "Join a faction.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Time is on our side",
+      "description": "Reach 1948.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "We'll Build it in a Day",
+      "description": "Research Construction V.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Transport Tycoon",
+      "description": "Have at least 1000 convoys.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Destroyer of Worlds",
+      "description": "Deploy a nuke.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Wunderwaffen",
+      "description": "Has completed the Special Projects Nuclear Fission Bomb, Rocket Interceptor and Jet Engines.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Master of War",
+      "description": "Fully research a land, air and naval doctrine tree.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Mine is bigger than yours",
+      "description": "Lead a faction with at least 20 members.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "No country for old men",
+      "description": "Reach 0 manpower with Scraping the Barrel as Conscription Law.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "New World Order",
+      "description": "Make all nations fascist.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Cut The Strings",
+      "description": "Break free from your overlord as a puppet.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "The Puppetmaster",
+      "description": "Have at least 51 subjects.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Lethal Straight",
+      "description": "Have a production license from at least 5 of the 7 major powers.",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "Sun Tzu Reborn",
+      "description": "As Any Chinese Nation, have a level 9 field marshal.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Battlecry",
+      "description": "As a warlord, conquer all of China and Japan.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Panda-monium",
+      "description": "As a warlord, be at war with all Chinese nations simultaneously.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Make a Man Out Of You",
+      "description": "As a Warlord, have at least 1,000,000 manpower queued up for deployment.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Do You Mined?",
+      "description": "Lay at least 1,000 mines on the coastline of an enemy nation.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Play It, Sam",
+      "description": "Have a spy network of at least 50% strength in Casablanca.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "I SEE EVERYTHING",
+      "description": "Get over 90% intel in each category on a major without using code cracking.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Shaken, Not Stirred",
+      "description": "Successfully stage a coup in any nation using a spy with the Seducer trait.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Listen Very Carefully, I Shall Say This...",
+      "description": "Have a French and British spy work together on the same Operation.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Man of a Thousand Faces, Every One the Same",
+      "description": "Have the same spy get captured twice.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "You Will Never Kill Me Alive",
+      "description": "Have one of your spies take a Suicide Pill.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Around Eurasia in 80 days",
+      "description": "Make a railroad from Gibraltar to Singapore.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "By merit alone",
+      "description": "Promote a Unit Commander to a general, and reach max level.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Satisfactory",
+      "description": "Have at least one MIO per category at level 10+.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Manifesting a Better Tomorrow",
+      "description": "Reach 100% faction manifest fulfilment.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Doctrine of Choice",
+      "description": "Complete three subdoctrines in the same track.",
+      "dlc": "No Compromise, No Surrender"
+    }
+  ],
+  "Afghanistan": [
+    {
+      "name": "Graveyard of Empires",
+      "description": "As Afghanistan, Iran, Iraq or the Raj, control all of the other three nations' starting provinces.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "This achievement is dedicated to the brave soldiers of...",
+      "description": "As Afghanistan, capitulate the Soviet Union.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "I have the high ground",
+      "description": "As Afghanistan, control all Himalayan states.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Savior of the holy lands",
+      "description": "As Afghanistan, become the owner of Palestine and Mecca.",
+      "dlc": "Graveyard of Empires"
+    }
+  ],
+  "Argentina": [
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Bad Ending - The whole world is now Brazil",
+      "description": "Control every state in the world.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Islas Malvinas",
+      "description": "As Argentina, hold the Falkland Islands and South Georgia for 73 days consecutively.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Lamento Boliviano",
+      "description": "As Argentina, own all of Latin America except Bolivia.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "The Dragon Rises",
+      "description": "As \"Welsh Argentina\", control Wales.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Cisplatine War 2, Electric Boogaloo",
+      "description": "As Either Brazil or Argentina, be in a faction with Uruguay while at war with Brazil/Argentina.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Reconquistadors",
+      "description": "As Argentina or Chile, have a Conquistadors national spirit active while holding all Spanish Cores.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Australia": [
+    {
+      "name": "Once More Mate",
+      "description": "Occupy Gallipoli as Australia.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "The weapons of the Third Emu War",
+      "description": "As Australia, use a nuclear bomb on core Australian territory.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Rule Britannia",
+      "description": "As any British Subject state, conquer all of Britain.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Australia-Hungary",
+      "description": "As Australia, own all core territory of Hungary.",
+      "dlc": "Waking the Tiger"
+    }
+  ],
+  "Austria": [
+    {
+      "name": "Antischluss",
+      "description": "As Austria, control all German starting states.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "No Friends, Only Family",
+      "description": "As Austria or Hungary led by a Habsburg Monarch, Control the Swiss Plateau and have at least three other countries be led by a member of the Habsburg family.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Otto-man",
+      "description": "As Austria or Hungary, led by Otto von Habsburg, control the starting states of Austria, Hungary, Czechoslovakia, Romania, Bulgaria, Greece and Turkey as well as the states in Polish Galicia, Slovenia and Croatia.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Brentry",
+      "description": "As Austria, Belgium or the Netherlands be the leader of the EU and have the United Kingdom join your faction.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "Belgium": [
+    {
+      "name": "Forge of Victory",
+      "description": "Have 50 factories as Belgium.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Brentry",
+      "description": "As Austria, Belgium or the Netherlands be the leader of the EU and have the United Kingdom join your faction.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Spaak of Genius",
+      "description": "As Belgium, with Paul-Henri Spaak as country leader, research at least 10 different Special Projects.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "The 501st Legion",
+      "description": "As Belgium, have the National Spirit “Rexist Legion” and be in control of all of your starting neighbors’ Capitals.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "Bolivia": [
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Brazil": [
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "And the snake smoked",
+      "description": "As Brazil, in the allies, capitulate Germany while controlling Berlin.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Bad Ending - The whole world is now Brazil",
+      "description": "Control every state in the world.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "I'm Home!",
+      "description": "As Brazil occupy every core of Portugal.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "The Merry Band",
+      "description": "As communist brazil ruled by Lampião, occupy Nottingham.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Snakes on a plane",
+      "description": "As Brazil, capture Rome with paratroopers.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Cisplatine War 2, Electric Boogaloo",
+      "description": "As Either Brazil or Argentina, be in a faction with Uruguay while at war with Brazil/Argentina.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "British Raj": [
+    {
+      "name": "Our Words Are Backed With Nuclear Weapons",
+      "description": "As India, develop and deploy a nuke. You must have the Quit India Movement national spirit.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Rule Britannia",
+      "description": "As any British Subject state, conquer all of Britain.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Spies Trade",
+      "description": "As India, become the spymaster for the Allies.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Graveyard of Empires",
+      "description": "As Afghanistan, Iran, Iraq or the Raj, control all of the other three nations' starting provinces.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "It's Just Good Business",
+      "description": "As the East India Company, own Suez and Panama.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Media Mughal",
+      "description": "As the Mughal Empire, complete Agency Upgrade Psychological Warfare, become Spy Master and have at least 8 operatives.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Oh, how the turntables",
+      "description": "As India puppet the UK with Churchill as it's leader.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "I'm just passing by",
+      "description": "Own a state on each continent while being at peace.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "I shall either find a way or make one",
+      "description": "Control Rome and have an elephant unit in the state.",
+      "dlc": "Graveyard of Empires"
+    }
+  ],
+  "Bulgaria": [
+    {
+      "name": "I Captured the Bosporus and All I Got Was This Lousy Achievement",
+      "description": "As Greece or Bulgaria, own both sides of the Bosporus. As Turkey, subjugate both Greece & Bulgaria.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Prussia of the Balkans",
+      "description": "As Bulgaria capitulate Turkey while also controlling the rest of the Balkans, including Greece.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Balkan Problem Solved",
+      "description": "As Communist Bulgaria, form the United Balkan Federation and own all Balkan states as cores.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Master Puppeteer",
+      "description": "As Bulgaria, complete the focus The Fate of the Balkans while having 5 or more Balkan puppets.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Now This is Getting Childish",
+      "description": "As Yugoslavia or Bulgaria, be at war while both countries are ruled by a child.",
+      "dlc": "Battle for the Bosporus"
+    }
+  ],
+  "Canada": [
+    {
+      "name": "Canada First",
+      "description": "Join Axis as Canada.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Braaaaains!",
+      "description": "As Canada, complete the Send in the Zombies focus.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "It's 1812 All Over Again",
+      "description": "As Canada, take and hold Washington D.C.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Rule Britannia",
+      "description": "As any British Subject state, conquer all of Britain.",
+      "dlc": "Together for Victory"
+    }
+  ],
+  "Chile": [
+    {
+      "name": "Red Hot Chile Peppers",
+      "description": "As Communist Chile, control California.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "King of What?",
+      "description": "Have Jaque Antoine Bernard as King of Chile and control Paris.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "True Condor Legion",
+      "description": "As CHL, BOL, PRU, ECU, VEN, COL - Sent volunteers to Germany.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Chilean Empire",
+      "description": "Control all mainland states that border the pacific in South America, North America and Asia.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Reconquistadors",
+      "description": "As Argentina or Chile, have a Conquistadors national spirit active while holding all Spanish Cores.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Hispanics of the world, unite!",
+      "description": "As Chile, form the Hispanic Alliance and have at least 8 \"Hispanic\" nations in your faction.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "America Decolonized!",
+      "description": "As Mapuche Chile liberate all native people in North and South America.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "China": [
+    {
+      "name": "Awake and Angry",
+      "description": "As China, reconquer all of China and Manchuria and force a Japanese surrender.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Romance of the Three Kingdoms",
+      "description": "As China, puppet and then annex Yunnan and Guangxi Clique.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Its all coming together",
+      "description": "As China, fully control all core states alone or with subjects.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "The Coast is Clear",
+      "description": "As China, never lose a starting coastal state before 1945.9.2.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "A Fullmetal Brotherhood",
+      "description": "As Fascist China, control 300 Steel, Tungsten and Chromium.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Genghis Khan't",
+      "description": "As any Chinese country or Manchukuo, own and control all Mongolian core states.",
+      "dlc": "No Compromise, No Surrender"
+    }
+  ],
+  "Chinese Soviet Republic": [
+    {
+      "name": "Sun Tzu Reborn",
+      "description": "As Any Chinese Nation, have a level 9 field marshal.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "The People Have Stood Up!",
+      "description": "With Mao as your leader, win the Chinese Civil War.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Made in China",
+      "description": "As Communist China, have over 100 military factories.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Battle Royale",
+      "description": "As Communist China, fight both China and Japan before 1940 within 90 days of being at war with the other, and capitulate them both.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "The Winner takes it all",
+      "description": "As PRC owns and controls all starting Chinese core states.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Master Infiltrator",
+      "description": "As PRC, don't expand beyond Yan'an, and infiltrate at least 5 Chinese states and flip them to your control when attacking the rest of China.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Genghis Khan't",
+      "description": "As any Chinese country or Manchukuo, own and control all Mongolian core states.",
+      "dlc": "No Compromise, No Surrender"
+    }
+  ],
+  "Colombia": [
+    {
+      "name": "My Ships Don't Lie",
+      "description": "As Colombia, form Gran Colombia and have 10 Carriers and 10 Battleships.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "True Condor Legion",
+      "description": "As CHL, BOL, PRU, ECU, VEN, COL - Sent volunteers to Germany.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Czechoslovakia": [
+    {
+      "name": "The Munich Disagreement",
+      "description": "As Czechoslovakia, occupy Munich while at war with Germany.",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "Czechmate",
+      "description": "As Czechoslovakia, occupy Canberra while at war with the Allies.",
+      "dlc": "Death or Dishonor"
+    }
+  ],
+  "Denmark": [
+    {
+      "name": "Northern Light",
+      "description": "As a Scandinavian country form your own faction, and have Denmark, Sweden, Norway and Finland in it.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Party like it's 1520",
+      "description": "Occupy Stockholm as communist Denmark.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Med plutonium 2",
+      "description": "As Denmark nuke Sweden.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Everything is awesome.",
+      "description": "As Denmark, get Maximum Welfare Spending after January 1st 1941 without being puppeted or capitulating.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "The Danelaw",
+      "description": "As Denmark, conquer England.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Egypt": [
+    {
+      "name": "Freegypt",
+      "description": "As Egypt, go from puppet to a free nation using the autonomy system.",
+      "dlc": "Together for Victory"
+    }
+  ],
+  "Estonia": [
+    {
+      "name": "It has my name on it",
+      "description": "As any Baltic State, conquer the entire shoreline of the Baltic Sea.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Esti is Scandi",
+      "description": "As Estonia Secure Scandinavia.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Uralic brothers united",
+      "description": "As Finland, have Hungary, Estonia, Sapmi, Karelia, Mari El, Udmurtia, Komi, Ostyak-Vogulia, Yamalia and Nenetsia as subjects.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Ethiopia": [
+    {
+      "name": "The Lion that Roared",
+      "description": "As Ethiopia, without being in a faction, force the Italians to make peace. Again.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "The Lion King",
+      "description": "As Haile Selassie, declare yourself “King of Kings” and control Kenya and Tanzania.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "This time for Africa",
+      "description": "As Ethiopia, found the African Union and have it encompass at least 13 different countries with capitals in Africa.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Crusader Kings IV",
+      "description": "Take Jerusalem as Ethiopia and move the capital there.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "The Red Sea",
+      "description": "As Ethiopia, go communist and take all the states that border the Red Sea.",
+      "dlc": "By Blood Alone"
+    }
+  ],
+  "Finland": [
+    {
+      "name": "Northern Light",
+      "description": "As a Scandinavian country form your own faction, and have Denmark, Sweden, Norway and Finland in it.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Finnish Him!",
+      "description": "As Finland, defeat the Soviet Union without joining a faction.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Two Arms Against Tyranny",
+      "description": "As Finland, capitulate the Soviet Union while having a 2 country faction with another Nordic.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Uralic brothers united",
+      "description": "As Finland, have Hungary, Estonia, Sapmi, Karelia, Mari El, Udmurtia, Komi, Ostyak-Vogulia, Yamalia and Nenetsia as subjects.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Lone Wolf",
+      "description": "As Finland, form Greater Finland and own every core and claim without having ever joined a faction.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "No one crosses the finnish line",
+      "description": "As non-aligned Finland, survive the Soviet Union until September 19th 1944 without losing control of a single core ever.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "France": [
+    {
+      "name": "Vive la France",
+      "description": "Reach 1948 as France without capitulating or surrendering.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Big Entente",
+      "description": "As France, complete the \"Little Entente\" National Focus, and have all German cores owned by you or someone in your faction.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Vive la Jeune Ecole",
+      "description": "As France, have at least 150 Destroyers and research the maximum torpedo launcher technology, before 1945.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Die, Perfidious Albion!",
+      "description": "As Fascist France or Vichy France, occupy all of Great Britain.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Second Time’s the Charm",
+      "description": "As France, occupy Moscow while Napoleon VI is your country leader.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Tour de France",
+      "description": "Occupy all of mainland France while having at least 20 fully equipped Bicycle regiments.",
+      "dlc": "La Résistance"
+    }
+  ],
+  "Germany": [
+    {
+      "name": "True Blitzkrieg",
+      "description": "As Germany have both Poland and France surrender before January 1st 1940.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Operation Sea Lion",
+      "description": "Control British mainland as Germany.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Monarchy is Back in Fashion",
+      "description": "As Germany, Bring back the Kaiser and ensure that Italy is controlled by Victor Emmanuel by killing Mussolini.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Our Other Place in the Sun",
+      "description": "As Imperial Germany, conquer a Caribbean island.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Team America",
+      "description": "As the U.S.A., drop a nuclear bomb on Paris.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Why Die For Danzig?",
+      "description": "As Germany, turn France fascist and occupy Danzig without going to war with France.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Don’t Die for Your Country",
+      "description": "As Germany in a 1939 start, occupy all of Poland and France without taking more than 475 casualties.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Not much fun in Stalingrad",
+      "description": "As Germany, capitulate the Soviet Union without taking Stalingrad.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "By Beer Alone",
+      "description": "As Germany, control Budweis, Tsingtao, and Guinness directly or through a faction member.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Nothing personal, Adolf",
+      "description": "As Italy, take Austria before the Anschluss and never enter a faction with a fascist Germany.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Woman in a High Castle",
+      "description": "As Germany with a female leader either annex the USA, including Alaska and Hawaii or have an American puppet that owns all the American starting states, including Alaska and Hawaii.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Naval Arms Race",
+      "description": "As Germany led by an Admiral capitulate the United Kingdom.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Weltpolitik",
+      "description": "As Germany take control of all of your former colonies.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "Greece": [
+    {
+      "name": "I Captured the Bosporus and All I Got Was This Lousy Achievement",
+      "description": "As Greece or Bulgaria, own both sides of the Bosporus. As Turkey, subjugate both Greece & Bulgaria.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Istanbul is Constantinople. Again.",
+      "description": "As Greece, capture Istanbul and rename it to Constantinople.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "This is Madness!",
+      "description": "As Greece, fulfil the Megali Idea and then form Greater Greece.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Hellenic Civility",
+      "description": "Win the Greek Civil War before 1937.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Freedom or Death",
+      "description": "As Greece, liberate Albania while being at war with Italy.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Pesky Greeks",
+      "description": "As Iran, become the owner of all Greek core states.",
+      "dlc": "Graveyard of Empires"
+    }
+  ],
+  "Hungary": [
+    {
+      "name": "Miklos Horthy and the Habsburg Prince",
+      "description": "As Hungary, Restore Austria-Hungary.",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "Better than the Szent István",
+      "description": "As Hungary, have Miklos Horthy as a Naval commander and build a battleship.",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "No Friends, Only Family",
+      "description": "As Austria or Hungary led by a Habsburg Monarch, Control the Swiss Plateau and have at least three other countries be led by a member of the Habsburg family.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Otto-man",
+      "description": "As Austria or Hungary, led by Otto von Habsburg, control the starting states of Austria, Hungary, Czechoslovakia, Romania, Bulgaria, Greece and Turkey as well as the states in Polish Galicia, Slovenia and Croatia.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "The Lenin Boys are Back in Town",
+      "description": "As Communist Hungary bring back the Lenin-fiúk and take control over Leningrad.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "A Great Hunger",
+      "description": "As Hungary proclaim Greater Hungary and control all of your historical state.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Uralic brothers united",
+      "description": "As Finland, have Hungary, Estonia, Sapmi, Karelia, Mari El, Udmurtia, Komi, Ostyak-Vogulia, Yamalia and Nenetsia as subjects.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Iceland": [
+    {
+      "name": "Vinland",
+      "description": "As Iceland, conquer Newfoundland.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Brexit",
+      "description": "As communist Iceland, make Wales, Scotland and Northern Ireland rise up against the United Kingdom.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Cod wars",
+      "description": "As Iceland capitulate the UK.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Iran": [
+    {
+      "name": "Graveyard of Empires",
+      "description": "As Afghanistan, Iran, Iraq or the Raj, control all of the other three nations' starting provinces.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Pesky Greeks",
+      "description": "As Iran, become the owner of all Greek core states.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "The Sands of Time",
+      "description": "As Iran, own the entire middle east.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "The Legacy of Cyrus the Great",
+      "description": "As Iran, become the owner of former Achaemenid Empire's states.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "From Tehran with Love",
+      "description": "As Iran, guarantee Poland's independence and ensure it does not capitulate by 1945.",
+      "dlc": "Graveyard of Empires"
+    }
+  ],
+  "Iraq": [
+    {
+      "name": "Graveyard of Empires",
+      "description": "As Afghanistan, Iran, Iraq or the Raj, control all of the other three nations' starting provinces.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Cradle of Civilization",
+      "description": "As Iraq, build the maximum infrastructure level in all core states and achieve 100% stability.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Oil Sheiks",
+      "description": "As Iraq, have 500 oil production.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Revenge for 1925",
+      "description": "As Iraq, form the Hashemite Arab Federation and defeat Saudi Arabia.",
+      "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "Avenging the Sack of Baghdad",
+      "description": "As Iraq, control the capital of Mongolia.",
+      "dlc": "Graveyard of Empires"
+    }
+  ],
+  "Italy": [
+    {
+      "name": "Duce Nuked'em",
+      "description": "Nuke Los Angeles as fascist Italy.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Stalin, how many guns does he have?",
+      "description": "As the pope, capitulate the USSR.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Holy, Roman, and an Empire",
+      "description": "As the Pope, restore Rome.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Pizza Time!",
+      "description": "As Italy, occupy New York, Chicago and Hawaii.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Collect all the Romes",
+      "description": "As Italy, continue holding onto the First Rome, and gain the second and third Rome.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Nothing personal, Adolf",
+      "description": "As Italy, take Austria before the Anschluss and never enter a faction with a fascist Germany.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Not today",
+      "description": "As communist Italy, save Gramsci from the brink of death, make him the leader of Italy and form the Italian National Union.",
+      "dlc": "By Blood Alone"
+    }
+  ],
+  "Japan": [
+    {
+      "name": "Tojo Shot First",
+      "description": "As Japan, Nuke a core territory of the US before the US develops nuclear weapons.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Sunrise Invasion",
+      "description": "As Japan, conquer Mexico then Europe before 1945.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Pride and Extreme Prejudice",
+      "description": "Sink the British Pride of the Fleet.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Paradisus Paradoxum",
+      "description": "As Japan, proclaim the creation of a Pure Buddhist Land.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "An Equivalent Exchange",
+      "description": "As Democratic Japan, complete the focus Foreign Exchange Allocation Policy and capitulate Fascist Germany.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "The Sun Will Never Set",
+      "description": "As Japan, proclaim the Eternal Empire and control all of your core states.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Caramelldansen",
+      "description": "As Sweden puppet Japan.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Luxembourg": [
+    {
+      "name": "The True Successor",
+      "description": "As Luxembourg led by Charles Marx control both Brussels and Trier.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "Manchukuo": [
+    {
+      "name": "The Dragon Swallowed the Sun",
+      "description": "As Manchukuo, Break free from Japan and annex your former Overlord without being in a faction.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Hail to the Qing",
+      "description": "As Manchukuo, restore the Qing dynasty.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "The Good, the Bad and the Weird",
+      "description": "As Manchukuo, have max level infrastructure in every owned state and generate at least 15 units of oil.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Genghis Khan't",
+      "description": "As any Chinese country or Manchukuo, own and control all Mongolian core states.",
+      "dlc": "No Compromise, No Surrender"
+    }
+  ],
+  "Mexico": [
+    {
+      "name": "Sunset Invasion",
+      "description": "Occupy a coastal province in Europe as Mexico, and if in a faction have it contain only South American members or puppets.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "The Revenge of Montezuma",
+      "description": "Restore the old borders with the USA as Mexico.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Mi Casa es tu Casa",
+      "description": "As Mexico, host a government-in-exile.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "The New Home of the Revolution",
+      "description": "As Mexico, put Trotsky in power and puppet the Soviet Union.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Norway Jose",
+      "description": "As Norway, own and control every Mexican core.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Netherlands": [
+    {
+      "name": "United Netherlands",
+      "description": "Conquer Belgium and Luxembourg as Netherlands.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Treading the Narrow Path",
+      "description": "As the Netherlands, do not cave to the Germans, continue the Zuiderzee works, and do not lose control of any of your continental European states until 1945.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Putting the Raid on the Medway to Shame",
+      "description": "As the Netherlands, ensure the United Kingdom has no capital ships (carriers, battleships, battlecruisers, or heavy cruisers).",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Bevrijding",
+      "description": "As the Netherlands, liberate the continental Netherlands after relocating the government to the East Indies.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Brentry",
+      "description": "As Austria, Belgium or the Netherlands be the leader of the EU and have the United Kingdom join your faction.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "Norway": [
+    {
+      "name": "Northern Light",
+      "description": "As a Scandinavian country form your own faction, and have Denmark, Sweden, Norway and Finland in it.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Norway Jose",
+      "description": "As Norway, own and control every Mexican core.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Pinot Noirway",
+      "description": "As Norway, own and control the state of Bourgogne.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Cheese your fighter.",
+      "description": "As Norway, with Peder Jarlsberg as country leader, own Telemark, Glouchestershire, Normandy, Lombardia and Holland.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Philippines": [
+    {
+      "name": "The Juannines",
+      "description": "As the Philippines, have cores and control all of Spain.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Declare Military Emergency",
+      "description": "Have a Military Emergency declared in the Philippines.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Cobalt Sea",
+      "description": "As the Philippines, launch nuclear missiles from a nuclear submarine.",
+      "dlc": "No Compromise, No Surrender"
+    }
+  ],
+  "Poland": [
+    {
+      "name": "Poland Can Into Space",
+      "description": "Has completed the Special Project Rocket Interceptor.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Bearer of Artillery",
+      "description": "Gain Vojtek as commander.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "No more Partitions",
+      "description": "As Poland, be independent and ensure that both Germany and the USSR are either in your faction or don’t exist.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Habsburgs. Habsburgs everywhere",
+      "description": "As Poland, install a Habsburg monarch and be in a faction with another Habsburg monarch.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Crusader Kings III",
+      "description": "As Poland, crown a King (or Queen) and capture Jerusalem.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Poland Peasant Revolution",
+      "description": "As Poland, have the Peasant’s Strike overthrow the government.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "30 Minutes of Hel",
+      "description": "As Poland in the 1939 “Blitzkrieg” scenario start, inflict over 1,800,000 casualties to Germany to beat the 2018 PDXCON HOI4 challenge. Extra bragging rights if you do it in 30 minutes or less!",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Warszawo, Walcz!",
+      "description": "Stage the Warsaw uprising and succeed.",
+      "dlc": "La Résistance"
+    }
+  ],
+  "Portugal": [
+    {
+      "name": "BFFs",
+      "description": "As Portugal, join the same faction as Great Britain.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Go Ahead, Macau My Day",
+      "description": "As Portugal, create a collaboration government in Macau and have it own all Chinese states.",
+      "dlc": "La Résistance"
+    }
+  ],
+  "Romania": [
+    {
+      "name": "Death or Dishonor or Cake",
+      "description": "As Romania, own a slice of all your starting neighbors.",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "Neither Death nor Dishonor",
+      "description": "As Romania, make it to 1942 with all the states you started it with and control either Moscow or Berlin.",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "Assuming Direct Control",
+      "description": "Starting as a minor power, assume faction leadership of the Allies, the Axis, or the Comintern.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Totally Not Cool, Bromania",
+      "description": "As Romania, change sides in the war and capitulate a former ally.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Dracula’s Revenge",
+      "description": "As Yugoslavia, establish the autonomous region of Transylvania and have it own all Romanian cores.",
+      "dlc": "Battle for the Bosporus"
+    }
+  ],
+  "South Africa": [
+    {
+      "name": "District 9",
+      "description": "As South Africa, have 9 civilian factories in Transvaal.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Crusader Kings",
+      "description": "As South Africa, finish the A King for our People focus and take Jerusalem.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Crusader Kings 2",
+      "description": "As South Africa, finish the Anti-Colonialist Crusade focus, release all European colonies via the focus, and take London.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Rule Britannia",
+      "description": "As any British Subject state, conquer all of Britain.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "I Am the Tong Master",
+      "description": "As South Africa, break free from the UK and puppet another nation.",
+      "dlc": "Together for Victory"
+    }
+  ],
+  "Soviet Union": [
+    {
+      "name": "The Revolution Triumphant",
+      "description": "Have Germany as a puppet of Soviet.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "The Pope? How many Divisions does he have?",
+      "description": "As the USSR take Rome.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Not a step back!",
+      "description": "As the Soviet Union never lose 1 core territory to anyone before 1945.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "One Step Forward",
+      "description": "As Soviet Union declare a war on Poland and Germany before Germany attacks Poland.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "The Soviet Onion",
+      "description": "As the Soviet Union, have only puppets as neighbors.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "The Romanovs Laugh Last",
+      "description": "Restore the Romanovs to the throne and conquer Germany, Hungary, Austria, Czechoslovakia, Turkey, and Bulgaria.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "We don't really like statistics",
+      "description": "As the Soviet Union under Stalin, conquer Germany while suffering less than 1 million casualties total.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Race for Germany",
+      "description": "As the Soviet union, capitulate Germany after the fall of France before the Allies control one German core state.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Just proper gander",
+      "description": "As the Soviet Union, activate 30 propaganda campaigns before 1945.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "Stalin, how many guns does he have?",
+      "description": "As the pope, capitulate the USSR.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Tsar Bomba",
+      "description": "As Tsarist Russia complete the Special Project for Thermonuclear bombs.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "Spain": [
+    {
+      "name": "Nobody expects...",
+      "description": "As Nationalist Spain in Axis manage to take Paris before the Germans.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "The bell tolls for us",
+      "description": "Win Spanish Civil War as Republican Spain.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "One King, Two Crowns",
+      "description": "As Bourbon Spain, hold all Spanish and French core states.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "We Will Rock You",
+      "description": "As Spain, own Gibraltar.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Well, I Didn’t Vote for You",
+      "description": "Win the Spanish Civil War as the Anarchists.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Our Chief Weapon is Surprise...",
+      "description": "As Spain, have at least 5 spies and stage 5 coups against other nations.",
+      "dlc": "La Résistance"
+    }
+  ],
+  "Sweden": [
+    {
+      "name": "Northern Light",
+      "description": "As a Scandinavian country form your own faction, and have Denmark, Sweden, Norway and Finland in it.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "Med plutonium...",
+      "description": "Nuke Denmark as Sweden.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "En Svensk Tiger",
+      "description": "As Sweden, acquire a production license for a Tiger or Tiger II tank from Germany.",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "Danzig queen",
+      "description": "As Sweden, own and control Danzig.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "Caramelldansen",
+      "description": "As Sweden puppet Japan.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "The return of the king",
+      "description": "As the exiled King of Gotland, retake mainland Sweden.",
+      "dlc": "Arms Against Tyranny"
+    },
+    {
+      "name": "The Magic School Bus",
+      "description": "With the Per Albin Bus, drive to Cape Town.",
+      "dlc": "Arms Against Tyranny"
+    }
+  ],
+  "Switzerland": [
+    {
+      "name": "…and you get a canton, everybody gets a canton!",
+      "description": "As Switzerland, have 24 states.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "I’m not locked in here with you…",
+      "description": "As Switzerland, declare war on Germany and win.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "Swiss Cheese",
+      "description": "As Switzerland annex 5 states that are not contiguous with each other or Switzerland.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "You Shall Not Pass",
+      "description": "As Switzerland win a defensive war without ever losing Western Swiss Alps, Eastern Swiss Alps or Ticino.",
+      "dlc": "By Blood Alone"
+    }
+  ],
+  "Turkey": [
+    {
+      "name": "I Captured the Bosporus and All I Got Was This Lousy Achievement",
+      "description": "As Greece or Bulgaria, own both sides of the Bosporus. As Turkey, subjugate both Greece & Bulgaria.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Nobody’s Business but the Turks",
+      "description": "Restore the Ottoman Sultanate.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "We’re Putting the Band Back Together",
+      "description": "As Turkey, be in a faction with Germany and Austria-Hungary.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Hardly Anything Sèvres",
+      "description": "As the Ottoman Empire, hold the capitals of France, the United Kingdom, Italy, and Japan.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "One Nation Under Atatürk, Indivisible",
+      "description": "As non-aligned Turkey, have zero negative state modifiers.",
+      "dlc": "Battle for the Bosporus"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "name": "One Empire",
+      "description": "Unite the entire world under the British Empire.",
+      "dlc": "Base game"
+    },
+    {
+      "name": "The Empire Strikes Back",
+      "description": "As Britain, declare war on one of your former subjects.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Rule Britannia",
+      "description": "As any British Subject state, conquer all of Britain.",
+      "dlc": "Together for Victory"
+    },
+    {
+      "name": "Last for a Thousand Years",
+      "description": "As the United Kingdom, accomplish the federation of the entire British Empire.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Britzkrieg",
+      "description": "As the United Kingdom, put Edward VIII in power, ally Germany and fully control Paris.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Nothing Wrong with our Bloody Ships",
+      "description": "As the United Kingdom, have at least 9 battlecruisers.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "William Wallis",
+      "description": "As the United Kingdom, put Edward VIII in power, enforce an American monarchy, and have both it and Scotland as subjects.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Crush the Dream",
+      "description": "As a Communist United Kingdom, crush the American Dream by puppeting the U.S.A.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Turing Complete!",
+      "description": "Fully decrypt all nations in the Axis.",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Brentry",
+      "description": "As Austria, Belgium or the Netherlands be the leader of the EU and have the United Kingdom join your faction.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Backfire",
+      "description": "As the United Kingdom complete the Special Project for Medium Range Ballistic Missiles, have a rocket site, and be at war with Germany.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "United States": [
+    {
+      "name": "Team America",
+      "description": "As the U.S.A., drop a nuclear bomb on Paris.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "History Repeated Itself",
+      "description": "As the U.S.A., Win against the Confederate States. Again.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Georgia On My Mind",
+      "description": "As the U.S.A., own and fully control all three Georgias.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "To Arms in Dixie!",
+      "description": "As the U.S.A., start a new civil war as the South.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Arsenal of Democracy",
+      "description": "As the U.S.A., have more than 300 military factories.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Underpaid, Undersexed, and Under Eisenhower",
+      "description": "As the U.S.A., assume faction leadership of the Allies, and have over 50 expeditionary divisions from the United Kingdom.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Woman in a High Castle",
+      "description": "As Germany with a female leader either annex the USA, including Alaska and Hawaii or have an American puppet that owns all the American starting states, including Alaska and Hawaii.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "American Prometheus",
+      "description": "As the USA have Robert Oppenheimer complete the Manhattan Project.",
+      "dlc": "Götterdämmerung"
+    }
+  ],
+  "Yugoslavia": [
+    {
+      "name": "Huge-oslavia",
+      "description": "As Yugoslavia, occupy all your neighbouring countries (Austria, Hungary, Romania, Bulgaria, Albania, Italy and Greece).",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "The Balkan Powder Keg",
+      "description": "As Yugoslavia, start the Second World War (i.e. be part of either the Axis or the Allies and at war with the other faction in a war you started).",
+      "dlc": "Death or Dishonor"
+    },
+    {
+      "name": "Peter’s Pride",
+      "description": "As Peter II of Yugoslavia, overthrow your uncle and become King.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Dracula’s Revenge",
+      "description": "As Yugoslavia, establish the autonomous region of Transylvania and have it own all Romanian cores.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "Now This is Getting Childish",
+      "description": "As Yugoslavia or Bulgaria, be at war while both countries are ruled by a child.",
+      "dlc": "Battle for the Bosporus"
+    }
+  ]
+}
