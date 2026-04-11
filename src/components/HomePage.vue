@@ -95,7 +95,7 @@ let CountryList = [
       </div>
     </div>
 
-    <div style="width: 100%;" class="text-2xl text-white text-center">Thanks for using the site! All the information was pulled from the HOI4 Wiki page, and parsed using AI, too lazy to do it myself, so if you notice something wrong click <a class="text-cyan-500 underline" href="https://github.com/jakeyboi1/HOI4ABC/issues" target="_blank">HERE</a> and open a new issue on the Github page!</div>
+    <div style="width: 100%;" class="text-2xl text-white text-center">Welcome to HOI4 Achievments by Country! All the information was pulled from the HOI4 Wiki page, and parsed using AI, too lazy to do it myself, so if you notice something wrong click <a class="text-cyan-500 underline" href="https://github.com/jakeyboi1/HOI4ABC/issues" target="_blank">HERE</a> and open a new issue on the Github page!</div>
 
     <table class="table-fixed border-collapse text-white mb-2 ml-4 mt-10" style="width: 98%;">
       <colgroup>
