@@ -115,7 +115,7 @@ let CountryList = [
           <td class="px-4 py-2 border">
             <div class="overflow-x-auto max-w-full pb-4 pt-4">
               <div class="inline-block pr-6 whitespace-nowrap">
-                {{ Achievment.description }}
+                {{ Achievment.name }}
               </div>
             </div>
           </td>
