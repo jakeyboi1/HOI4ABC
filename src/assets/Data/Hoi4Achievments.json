@@ -66,26 +66,6 @@
       "dlc": "Death or Dishonor"
     },
     {
-      "name": "Sun Tzu Reborn",
-      "description": "As Any Chinese Nation, have a level 9 field marshal.",
-      "dlc": "Waking the Tiger"
-    },
-    {
-      "name": "Battlecry",
-      "description": "As a warlord, conquer all of China and Japan.",
-      "dlc": "Waking the Tiger"
-    },
-    {
-      "name": "Panda-monium",
-      "description": "As a warlord, be at war with all Chinese nations simultaneously.",
-      "dlc": "Waking the Tiger"
-    },
-    {
-      "name": "Make a Man Out Of You",
-      "description": "As a Warlord, have at least 1,000,000 manpower queued up for deployment.",
-      "dlc": "Waking the Tiger"
-    },
-    {
       "name": "Do You Mined?",
       "description": "Lay at least 1,000 mines on the coastline of an enemy nation.",
       "dlc": "Man the Guns"
@@ -498,6 +478,11 @@
       "name": "Genghis Khan't",
       "description": "As any Chinese country or Manchukuo, own and control all Mongolian core states.",
       "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Sun Tzu Reborn",
+      "description": "As Any Chinese Nation, have a level 9 field marshal.",
+      "dlc": "Waking the Tiger"
     }
   ],
   "Chinese Soviet Republic": [
@@ -1528,6 +1513,45 @@
       "name": "Now This is Getting Childish",
       "description": "As Yugoslavia or Bulgaria, be at war while both countries are ruled by a child.",
       "dlc": "Battle for the Bosporus"
+    }
+  ],
+  "Northeastern Army": [
+    {
+      "name": "I Have Avenged You, Father!",
+      "description": "As Zhang Xueliang, reclaim Mukden and revive the Beiyang government.",
+      "dlc": "No Compromise, No Surrender"
+    }
+  ],
+  "All Chinese Warlord Nations": [
+    {
+      "name": "The Neverending Story",
+      "description": "As a Warlord, proclaim a new Chinese Empire.",
+      "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Genghis Khan't",
+      "description": "As any Chinese country or Manchukuo, own and control all Mongolian core states.",
+      "dlc": "No Compromise, No Surrender"
+    },
+        {
+      "name": "Battlecry",
+      "description": "As a warlord, conquer all of China and Japan.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Sun Tzu Reborn",
+      "description": "As Any Chinese Nation, have a level 9 field marshal.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Panda-monium",
+      "description": "As a warlord, be at war with all Chinese nations simultaneously.",
+      "dlc": "Waking the Tiger"
+    },
+    {
+      "name": "Make a Man Out Of You",
+      "description": "As a Warlord, have at least 1,000,000 manpower queued up for deployment.",
+      "dlc": "Waking the Tiger"
     }
   ]
 }

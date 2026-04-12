@@ -1,5 +1,6 @@
 <script>
 import AchievmentsData from '@/assets/Data/Hoi4Achievments.json';
+import CountryList from '@/assets/Data/CountryList.json';
 import { ref } from 'vue';
 
 export default {
@@ -17,58 +18,6 @@ export default {
     };
   },
 };
-
-
-let CountryList = [
-  "Any",
-  "Afghanistan",
-  "Argentina",
-  "Australia",
-  "Austria",
-  "Belgium",
-  "Bolivia",
-  "Brazil",
-  "British Raj",
-  "Bulgaria",
-  "Canada",
-  "Chile",
-  "China",
-  "Chinese Soviet Republic",
-  "Colombia",
-  "Czechoslovakia",
-  "Denmark",
-  "Egypt",
-  "Estonia",
-  "Ethiopia",
-  "Finland",
-  "France",
-  "Germany",
-  "Greece",
-  "Hungary",
-  "Iceland",
-  "Iran",
-  "Iraq",
-  "Italy",
-  "Japan",
-  "Luxembourg",
-  "Manchukuo",
-  "Mexico",
-  "Netherlands",
-  "Norway",
-  "Philippines",
-  "Poland",
-  "Portugal",
-  "Romania",
-  "South Africa",
-  "Soviet Union",
-  "Spain",
-  "Sweden",
-  "Switzerland",
-  "Turkey",
-  "United Kingdom",
-  "United States",
-  "Yugoslavia"
-]
 </script>
 
 <template>
@@ -132,6 +81,3 @@ let CountryList = [
     </table>
   </main>
 </template>
-
-<style scoped>
-</style>
