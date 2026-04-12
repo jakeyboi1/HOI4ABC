@@ -1,5 +1,5 @@
 {
-  "Any": [
+  "Any Country": [
     {
       "name": "Friend in Need",
       "description": "Join a faction.",
@@ -1533,7 +1533,7 @@
       "description": "As any Chinese country or Manchukuo, own and control all Mongolian core states.",
       "dlc": "No Compromise, No Surrender"
     },
-        {
+    {
       "name": "Battlecry",
       "description": "As a warlord, conquer all of China and Japan.",
       "dlc": "Waking the Tiger"

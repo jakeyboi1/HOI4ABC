@@ -1,10 +1,10 @@
 <script setup>
-import HomePage from './components/HomePage.vue';
+import Landing from './components/Landing.vue';
 </script>
 
 <template>
   <main>
-    <HomePage></HomePage>
+    <Landing/>
   </main>
 </template>
 
