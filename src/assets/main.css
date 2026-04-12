@@ -5,20 +5,23 @@ html {
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 4px;
 }
 
-/* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #888; 
+  background: #080808;
 }
 
-/* Handle on hover */
+::-webkit-scrollbar-thumb {
+  background: #1a1a1a;
+  border-radius: 10px;
+}
+
 ::-webkit-scrollbar-thumb:hover {
-  background: #555; 
+  background: #252525;
+}
+
+select {
+  -moz-appearance: none;
+  -webkit-appearance: none;
 }

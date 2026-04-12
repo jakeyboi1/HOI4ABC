@@ -4,7 +4,7 @@ import CountryList from '@/assets/Data/CountryList.json';
 import { ref } from 'vue';
 
 // Reactives
-const CountryChosen = ref("All Countries")
+const CountryChosen = ref("Any Country")
 
 // JSON Data
 const Achievments = ref(AchievmentsData);
@@ -28,15 +28,11 @@ const reportIssue = () => {
         </h1>
       </div>
 
+      <div class="px-4 overflow-y-auto space-y-8">
+        <p class="px-4 text-[10px] uppercase tracking-[0.2em] relative text-gray-600 font-bold mb-3">Countries</p>
+      </div>
       <div class="px-4 overflow-y-auto flex-1 space-y-8">
         <nav class="space-y-1">
-          <p class="px-4 text-[10px] uppercase tracking-[0.2em] text-gray-600 font-bold mb-3">Countries</p>
-          <button @click="CountryChosen = 'All Countries'"
-            class="w-full text-left px-4 py-2.5 text-sm rounded-xl transition-all hover:bg-white/5 hover:text-white group flex items-center justify-between">
-            <span class="flex items-center gap-3">
-              No Filter/All Countries
-            </span>
-          </button>
           <button @click="CountryChosen = Country" v-for="Country in Countries" :key="Country"
             class="w-full text-left px-4 py-2.5 text-sm rounded-xl transition-all hover:bg-white/5 hover:text-white group flex items-center justify-between">
             <span class="flex items-center gap-3">
@@ -121,58 +117,6 @@ const reportIssue = () => {
                 class="mt-6 h-[1px] w-0 bg-gradient-to-r from-blue-600 to-transparent group-hover:w-full transition-all duration-700 opacity-40">
               </div>
             </div>
-
-
-            <template v-if="CountryChosen === 'All Countries'">
-
-              <template v-for="(achievementList, countryName) in Achievments" :key="countryName">
-
-                <div v-for="Achievment in achievementList" :key="Achievment.name"
-                  class="group bg-[#0d0d0d] border border-white/[0.03] p-6 rounded-2xl transition-all duration-500 hover:border-white/10 hover:bg-[#111111] hover:shadow-[0_20px_40px_-20px_rgba(0,0,0,0.7)]">
-
-                  <div class="flex justify-between items-start mb-6">
-                    <div
-                      class="w-14 h-14 bg-white/[0.03] border border-white/5 rounded-2xl flex items-center justify-center group-hover:bg-yellow-500/10 group-hover:border-yellow-500/20 transition-all duration-500 shadow-inner">
-                      <svg class="w-8 h-8 text-gray-500 group-hover:text-yellow-500 transition-colors duration-500"
-                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M8 2v7l4 2 4-2V2H8z" />
-                        <path d="M10 2v5l2 1 2-1V2h-4z" opacity="0.5" />
-
-                        <circle cx="12" cy="14" r="7" />
-
-                        <path
-                          d="M12 11.5l1.045 2.117 2.337.34-1.691 1.648.399 2.328L12 16.833l-2.09 1.1l.399-2.328-1.691-1.648 2.337-.34L12 11.5z"
-                          fill="currentColor" class="group-hover:fill-yellow-500 transition-all" />
-
-                        <circle cx="12" cy="14" r="4.5" opacity="0.3" />
-                      </svg>
-                    </div>
-                    <span
-                      class="text-[9px] font-bold tracking-widest uppercase px-2 py-1 rounded bg-white/[0.02] text-gray-600 border border-white/5 group-hover:text-gray-400 transition-colors">
-                      {{ Achievment.dlc }}
-                    </span>
-                  </div>
-
-                  <div>
-                    <h4
-                      class="text-white font-semibold text-base mb-2 tracking-tight group-hover:text-blue-100 transition-colors">
-                      {{ Achievment.name }}
-                    </h4>
-                    <p class="text-sm text-gray-500 leading-relaxed font-light">
-                      {{ Achievment.description }}
-                    </p>
-                    <p class="mt-2 text-[10px] text-blue-500/40 uppercase tracking-widest">{{ countryName }}</p>
-                  </div>
-
-                  <div
-                    class="mt-6 h-[1px] w-0 bg-gradient-to-r from-blue-600 to-transparent group-hover:w-full transition-all duration-700 opacity-40">
-                  </div>
-                </div>
-              </template>
-
-            </template>
-
           </div>
         </div>
 
@@ -180,27 +124,3 @@ const reportIssue = () => {
     </main>
   </div>
 </template>
-
-<style>
-::-webkit-scrollbar {
-  width: 4px;
-}
-
-::-webkit-scrollbar-track {
-  background: #080808;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #1a1a1a;
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #252525;
-}
-
-select {
-  -moz-appearance: none;
-  -webkit-appearance: none;
-}
-</style>
