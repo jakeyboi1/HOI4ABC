@@ -43,7 +43,7 @@ const reportIssue = () => {
               {{ Country }}
             </span>
             <span class="text-[10px] text-gray-700 group-hover:text-gray-500 font-mono">{{ Achievments[Country].length
-              }}</span>
+            }}</span>
           </button>
         </nav>
       </div>
@@ -86,11 +86,20 @@ const reportIssue = () => {
 
               <div class="flex justify-between items-start mb-6">
                 <div
-                  class="w-12 h-12 bg-white/5 border border-white/5 rounded-2xl flex items-center justify-center group-hover:bg-blue-600/10 group-hover:border-blue-500/20 transition-all duration-500">
-                  <svg class="w-6 h-6 text-gray-600 group-hover:text-blue-400 transition-colors" fill="none"
-                    stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                      d="M13 10V3L4 14h7v7l9-11h-7z" />
+                  class="w-14 h-14 bg-white/[0.03] border border-white/5 rounded-2xl flex items-center justify-center group-hover:bg-yellow-500/10 group-hover:border-yellow-500/20 transition-all duration-500 shadow-inner">
+                  <svg class="w-8 h-8 text-gray-500 group-hover:text-yellow-500 transition-colors duration-500"
+                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <path d="M8 2v7l4 2 4-2V2H8z" />
+                    <path d="M10 2v5l2 1 2-1V2h-4z" opacity="0.5" />
+
+                    <circle cx="12" cy="14" r="7" />
+
+                    <path
+                      d="M12 11.5l1.045 2.117 2.337.34-1.691 1.648.399 2.328L12 16.833l-2.09 1.1l.399-2.328-1.691-1.648 2.337-.34L12 11.5z"
+                      fill="currentColor" class="group-hover:fill-yellow-500 transition-all" />
+
+                    <circle cx="12" cy="14" r="4.5" opacity="0.3" />
                   </svg>
                 </div>
                 <span
@@ -123,11 +132,20 @@ const reportIssue = () => {
 
                   <div class="flex justify-between items-start mb-6">
                     <div
-                      class="w-12 h-12 bg-white/5 border border-white/5 rounded-2xl flex items-center justify-center group-hover:bg-blue-600/10 group-hover:border-blue-500/20 transition-all duration-500">
-                      <svg class="w-6 h-6 text-gray-600 group-hover:text-blue-400 transition-colors" fill="none"
-                        stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                          d="M13 10V3L4 14h7v7l9-11h-7z" />
+                      class="w-14 h-14 bg-white/[0.03] border border-white/5 rounded-2xl flex items-center justify-center group-hover:bg-yellow-500/10 group-hover:border-yellow-500/20 transition-all duration-500 shadow-inner">
+                      <svg class="w-8 h-8 text-gray-500 group-hover:text-yellow-500 transition-colors duration-500"
+                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M8 2v7l4 2 4-2V2H8z" />
+                        <path d="M10 2v5l2 1 2-1V2h-4z" opacity="0.5" />
+
+                        <circle cx="12" cy="14" r="7" />
+
+                        <path
+                          d="M12 11.5l1.045 2.117 2.337.34-1.691 1.648.399 2.328L12 16.833l-2.09 1.1l.399-2.328-1.691-1.648 2.337-.34L12 11.5z"
+                          fill="currentColor" class="group-hover:fill-yellow-500 transition-all" />
+
+                        <circle cx="12" cy="14" r="4.5" opacity="0.3" />
                       </svg>
                     </div>
                     <span
