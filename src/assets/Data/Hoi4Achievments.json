@@ -124,6 +124,56 @@
       "name": "Doctrine of Choice",
       "description": "Complete three subdoctrines in the same track.",
       "dlc": "No Compromise, No Surrender"
+    },
+    {
+      "name": "Hoofin’ It",
+      "description": "Unite Arabia with thirty camelry divisions. (You can do this as any nation, as long as you have camel units.)",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
+      "name": "This time it will stick",
+      "description": "As any Allied Nation (in faction with a democratic Britain), enforce a peace deal on Germany that disarms the Rhineland and makes it a demilitarized zone.",
+      "dlc": "By Blood Alone"
+    },
+    {
+      "name": "A Land of Fire",
+      "description": "Tierra del Fuego means 'The Land of Fire'",
+      "dlc":"Trial of Allegiance"
+    },
+    {
+      "name": "Assuming Direct Control",
+      "description": "Starting as a minor power, assume faction leadership of the Allies, the Axis, or the Comintern.",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Super Heavy Metal",
+      "description": "Complete the Special Projects for Intercontinental Bombers, Land Cruisers, and Super Heavy Battleships.",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Dam It!",
+      "description": "Successfully execute a Dam Busting Raid",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Bullseye",
+      "description": "Successfully launch a raid on a Landmark",
+      "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Pride and Extreme Prejudice",
+      "description": "Sink the British Pride of the Fleet. (Not playing as United Kingdom)",
+      "dlc": "Man the Guns"
+    },
+    {
+      "name": "Warszawo, Walcz!",
+      "description": "Stage the Warsaw uprising and succeed. (Not playing as Poland)",
+      "dlc": "La Résistance"
+    },
+    {
+      "name": "Tour de France",
+      "description": "Occupy all of mainland France while having at least 20 fully equipped Bicycle regiments. (Not playing as France)",
+      "dlc": "La Résistance"
     }
   ],
   "Afghanistan": [
@@ -155,11 +205,6 @@
       "dlc": "Trial of Allegiance"
     },
     {
-      "name": "Bad Ending - The whole world is now Brazil",
-      "description": "Control every state in the world.",
-      "dlc": "Trial of Allegiance"
-    },
-    {
       "name": "Islas Malvinas",
       "description": "As Argentina, hold the Falkland Islands and South Georgia for 73 days consecutively.",
       "dlc": "Trial of Allegiance"
@@ -182,6 +227,21 @@
     {
       "name": "Reconquistadors",
       "description": "As Argentina or Chile, have a Conquistadors national spirit active while holding all Spanish Cores.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Somehow He Has Returned",
+      "description": "As Argentina, have Señor Hilter become country leader",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
       "dlc": "Trial of Allegiance"
     }
   ],
@@ -227,6 +287,11 @@
       "name": "Brentry",
       "description": "As Austria, Belgium or the Netherlands be the leader of the EU and have the United Kingdom join your faction.",
       "dlc": "Götterdämmerung"
+    },
+    {
+      "name": "Edelweiss Seedelweiss",
+      "description": "As Austria have a coastline, at least 10 Battleships and have Georg von Trapp as an Admiral",
+      "dlc": "Götterdämmerung"
     }
   ],
   "Belgium": [
@@ -251,6 +316,13 @@
       "dlc": "Götterdämmerung"
     }
   ],
+  "Belgian Congo": [
+    {
+      "name": "Congolese Belgium",
+      "description": "As Congo break free from the shackles of your old overlord and take control of all of their starting states",
+      "dlc": "Götterdämmerung"
+    }
+  ],
   "Bolivia": [
     {
       "name": "Rumble in the Jungle",
@@ -265,6 +337,11 @@
     {
       "name": "URSAL",
       "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "True Condor Legion",
+      "description": "As CHL, BOL, PRU, ECU, VEN, COL - Sent volunteers to Germany.",
       "dlc": "Trial of Allegiance"
     }
   ],
@@ -446,6 +523,21 @@
       "name": "America Decolonized!",
       "description": "As Mapuche Chile liberate all native people in North and South America.",
       "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
     }
   ],
   "China": [
@@ -528,6 +620,111 @@
       "description": "As Colombia, form Gran Colombia and have 10 Carriers and 10 Battleships.",
       "dlc": "Waking the Tiger"
     },
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "True Condor Legion",
+      "description": "As CHL, BOL, PRU, ECU, VEN, COL - Sent volunteers to Germany.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Ecuador": [
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "True Condor Legion",
+      "description": "As CHL, BOL, PRU, ECU, VEN, COL - Sent volunteers to Germany.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Paraguay": [
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Revenge for the triple alliance",
+      "description": "As Paraguay, declare war on Argentina, Brazil and Uruguay within the same month",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Peru": [
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "True Condor Legion",
+      "description": "As CHL, BOL, PRU, ECU, VEN, COL - Sent volunteers to Germany.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Uruguay": [
+    {
+      "name": "Rumble in the Jungle",
+      "description": "Own all Amazon states as any South American nation.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "Proactive Defense",
+      "description": "As any communist South or central American country, occupy Washington D.C.",
+      "dlc": "Trial of Allegiance"
+    },
+    {
+      "name": "URSAL",
+      "description": "Be Communist and own all of South America.",
+      "dlc": "Trial of Allegiance"
+    }
+  ],
+  "Venezuela": [
     {
       "name": "Rumble in the Jungle",
       "description": "Own all Amazon states as any South American nation.",
@@ -696,11 +893,6 @@
       "name": "Second Time’s the Charm",
       "description": "As France, occupy Moscow while Napoleon VI is your country leader.",
       "dlc": "La Résistance"
-    },
-    {
-      "name": "Tour de France",
-      "description": "Occupy all of mainland France while having at least 20 fully equipped Bicycle regiments.",
-      "dlc": "La Résistance"
     }
   ],
   "Germany": [
@@ -723,11 +915,6 @@
       "name": "Our Other Place in the Sun",
       "description": "As Imperial Germany, conquer a Caribbean island.",
       "dlc": "Waking the Tiger"
-    },
-    {
-      "name": "Team America",
-      "description": "As the U.S.A., drop a nuclear bomb on Paris.",
-      "dlc": "Man the Guns"
     },
     {
       "name": "Why Die For Danzig?",
@@ -797,9 +984,19 @@
       "dlc": "Battle for the Bosporus"
     },
     {
+      "name": "Bad Romeance",
+      "description": "Restore Byzantium and have Italy, Romania, and Russia as subjects.",
+      "dlc": "Battle for the Bosporus"
+    },
+    {
       "name": "Pesky Greeks",
       "description": "As Iran, become the owner of all Greek core states.",
       "dlc": "Graveyard of Empires"
+    },
+    {
+      "name": "I Swear I'm Not a Byzantophile",
+      "description": "As Greece, Form Byzantine Empire.",
+      "dlc": "Waking the Tiger"
     }
   ],
   "Hungary": [
@@ -910,6 +1107,13 @@
       "dlc": "Graveyard of Empires"
     }
   ],
+  "Khalistan": [
+    {
+      "name": "That's Sikh!",
+      "description": "As Khalistan, control all of the starting Raj states",
+      "dlc": "Graveyard of Empires"
+    }
+  ],
   "Italy": [
     {
       "name": "Duce Nuked'em",
@@ -945,6 +1149,11 @@
       "name": "Not today",
       "description": "As communist Italy, save Gramsci from the brink of death, make him the leader of Italy and form the Italian National Union.",
       "dlc": "By Blood Alone"
+    },
+    {
+      "name": "At least they run on time!",
+      "description": "As fascist Italy, have max level railways in all your core states",
+      "dlc": "No Step Back"
     }
   ],
   "Japan": [
@@ -957,11 +1166,6 @@
       "name": "Sunrise Invasion",
       "description": "As Japan, conquer Mexico then Europe before 1945.",
       "dlc": "Waking the Tiger"
-    },
-    {
-      "name": "Pride and Extreme Prejudice",
-      "description": "Sink the British Pride of the Fleet.",
-      "dlc": "Man the Guns"
     },
     {
       "name": "Paradisus Paradoxum",
@@ -1141,11 +1345,6 @@
       "name": "30 Minutes of Hel",
       "description": "As Poland in the 1939 “Blitzkrieg” scenario start, inflict over 1,800,000 casualties to Germany to beat the 2018 PDXCON HOI4 challenge. Extra bragging rights if you do it in 30 minutes or less!",
       "dlc": "Man the Guns"
-    },
-    {
-      "name": "Warszawo, Walcz!",
-      "description": "Stage the Warsaw uprising and succeed.",
-      "dlc": "La Résistance"
     }
   ],
   "Portugal": [
@@ -1170,11 +1369,6 @@
       "name": "Neither Death nor Dishonor",
       "description": "As Romania, make it to 1942 with all the states you started it with and control either Moscow or Berlin.",
       "dlc": "Death or Dishonor"
-    },
-    {
-      "name": "Assuming Direct Control",
-      "description": "Starting as a minor power, assume faction leadership of the Allies, the Axis, or the Comintern.",
-      "dlc": "Man the Guns"
     },
     {
       "name": "Totally Not Cool, Bromania",
@@ -1478,11 +1672,6 @@
       "dlc": "Man the Guns"
     },
     {
-      "name": "Woman in a High Castle",
-      "description": "As Germany with a female leader either annex the USA, including Alaska and Hawaii or have an American puppet that owns all the American starting states, including Alaska and Hawaii.",
-      "dlc": "Götterdämmerung"
-    },
-    {
       "name": "American Prometheus",
       "description": "As the USA have Robert Oppenheimer complete the Manhattan Project.",
       "dlc": "Götterdämmerung"
@@ -1552,6 +1741,51 @@
       "name": "Make a Man Out Of You",
       "description": "As a Warlord, have at least 1,000,000 manpower queued up for deployment.",
       "dlc": "Waking the Tiger"
+    }
+  ],
+  "Kurdistan": [
+    {
+      "name": "House of Kurds",
+      "description": "As Kurdistan, hold all of your cores.",
+      "dlc": "Battle for the Bosporus"
+    }
+  ],
+  "Lithuania": [
+    {
+      "name": "This is going to be LIT",
+      "description": "As Lithuania, hold the capitals of all of your neighbours.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "It has my name on it",
+      "description": "As any Baltic State, conquer the entire shoreline of the Baltic Sea.",
+      "dlc": "No Step Back"
+    }
+  ],
+  "Latvia": [
+    {
+      "name": "It has my name on it",
+      "description": "As any Baltic State, conquer the entire shoreline of the Baltic Sea.",
+      "dlc": "No Step Back"
+    },
+    {
+      "name": "This Achievement is Cheesy",
+      "description": "As Latvia, form Ostland and occupy Vasterbotten.",
+      "dlc": "No Step Back"
+    }
+  ],
+  "Tannu Tuva": [
+    {
+      "name": "Siberian Tiger",
+      "description": "As Tannu Tuva, form Siberia.",
+      "dlc": "No Step Back"
+    }
+  ],
+  "Sapmi": [
+    {
+      "name": "Sapmi united by the fire",
+      "description": "As Sami, own and control every Sami core.",
+      "dlc": "Arms Against Tyranny"
     }
   ]
 }
